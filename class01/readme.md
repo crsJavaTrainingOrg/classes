@@ -1,7 +1,7 @@
 Előismeretek
 ---
 
-#ATM git repository checkout
+# ATM git repository checkout
 
 A BlueJ rendelkezik git verziókövető supporttal.
 
