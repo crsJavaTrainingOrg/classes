@@ -31,6 +31,7 @@ Ezeket a mezőket töltsd ki a létrehozott github accountod emailaddress, usern
 
 Miután a cloneozás megtörtént a BlueJ-ben (továbbiakban: IDE (Integrated Development Environment)) meg fognak jelenni a repositoryban lévő filek.
 
+# Feladat
 A feladat az lenne, hogy 
 - nézd meg az ATM és TestAtm class-okat
 - gyűjtsd össze a kérdéseidet ha vannak
@@ -38,6 +39,9 @@ A feladat az lenne, hogy
 - Az eredményt próbáld meg commitolni majd pusholni a BlueJ segítségével (tehát a változásaidat visszaküldeni a távoli serverre)
 
 Ehhez kis segítség:
+
+# Commit & Push távoli repositoryba
+
 ![alt text](github2.png)
 ![alt text](github3.png)
 
