@@ -10,7 +10,8 @@ https://github.com/
 (Sign up for github.)
 
 
-Ha ez megvan akkor a lentebbi képen látható módon lehez klónozni egy git repozitory-t egy távoli szerverről a local gépre. 
+Ha ez megvan akkor a lentebbi képen látható módon lehez klónozni egy git repozitory-t egy távoli szerverről a local gépre.
+(Ha a képekre rákattintasz majd megnyomod a download gombot megmutatja a github a képet eredeti méretben)
 (Ekkor a teljes github serveren tárolt kód repository tartalom verziótörténettel együtt letöltődik a local gépre.)
 
 A git repository elésére amit clone-ozni kellene:
