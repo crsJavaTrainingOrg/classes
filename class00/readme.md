@@ -49,3 +49,29 @@ A második képen lévő ablakon
 - meg kell adni egy commit üzenetet (tetszőleges szüveg ami leírja hogy mit módosítottál)
 - meg kell nyomni a commit gombot (ekkor elmented a módosításokat a local repositorydba)
 - meg kell nyomni a push gombot (ekkor felküldöd a módosításodat a távoli serveren lévő repositoryba)
+
+# Felmerült kérdések
+
+- Primitive vs Reference types
+https://www.tutorialspoint.com/java/java_basic_datatypes.htm
+
+- Constructors (Default / parametrized constructors)
+https://www.javatpoint.com/constructor
+
+- Strings (concatenation)
+https://www.tutorialspoint.com/java/java_strings.htm
+
+- Camel Case
+https://sanaulla.info/2008/06/25/camelcase-notation-naming-convention-for-programming-languages/
+
+- Java operators ( == , and, or...)
+https://www.tutorialspoint.com/java/java_basic_operators.htm
+
+- Compare Strings
+https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java
+
+- Create objects
+https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html
+
+- Div (/) Mod (%) for int
+http://study.com/academy/lesson/integer-division-in-java-rounding-truncation.html
