@@ -1,14 +1,14 @@
-Multiple ways to generate random numbers
+#Multiple ways to generate random numbers
 ----
 
-# Math.random() versus Random.nextInt(int)
+## Math.random() versus Random.nextInt(int)
 https://stackoverflow.com/questions/738629/math-random-versus-random-nextintint
 
-# How do I generate random integers within a specific range in Java?
+## How do I generate random integers within a specific range in Java?
 https://stackoverflow.com/questions/363681/how-do-i-generate-random-integers-within-a-specific-range-in-java
 
 
-The ultimate way to generate random numbers
+##  The ultimate way to generate random numbers
 Usage:
 ~~~~
 import java.util.concurrent.ThreadLocalRandom;
