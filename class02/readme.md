@@ -1,5 +1,4 @@
 # Multiple ways to generate random numbers
-----
 
 ## Math.random() versus Random.nextInt(int)
 https://stackoverflow.com/questions/738629/math-random-versus-random-nextintint
