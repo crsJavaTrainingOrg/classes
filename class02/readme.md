@@ -9,7 +9,7 @@ https://stackoverflow.com/questions/363681/how-do-i-generate-random-integers-wit
 
 
 ##  The ultimate way to generate random numbers
-Usage:
+ThreadLocalRandom class. Usage:
 ~~~~
 import java.util.concurrent.ThreadLocalRandom;
 
