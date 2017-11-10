@@ -1,4 +1,4 @@
-#Multiple ways to generate random numbers
+# Multiple ways to generate random numbers
 ----
 
 ## Math.random() versus Random.nextInt(int)
