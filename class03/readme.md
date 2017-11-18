@@ -37,3 +37,28 @@ public class UseCircle() {
     }
 }
 ~~~~
+
+## Exercise
+
+Készíts egy Kutya osztályt aminek két String propertyje van "nev" és "fajta"
+
+Készíts egy Ember osztályt aminek van egy "nev" (string) és egy "kutya" (Kutya) tíspusú propertyje.
+
+Készíts egy "Par" nevű osztályt aminek van egy "leiras" nevű (nem statikus) metódusa ami a paraméterben megadott Ember típusú mezőnek egy stringbe összekonkatenálja a nevét, ha van kutyája akkor a utána a kutya nevét és a kutya fajtáját (space-el elválasztva az egyes mezőket).
+
+Pl.: Ha az Endre nevű "Ember"-nek nincs kutyája akkor a leiras ezzel a Stringgel tér vissza:
+~~~
+"Endre"
+~~~
+Ha van kutyája és a "Kutya" neve Morzsa a fajtája pedig puli akkor:
+~~~
+"Endre Morzsa puli"
+~~~
+
+Készíts egy teszt osztályt amiben példányosítasz:
+ * Ember osztályból egy példányt (ember0) aminek van beállítva neve
+ * A Kutya osztályból egy példányt (kutya0) aminek van beállítva neve és fajtája.
+ * Az ember0 -nak állítsd be, hogy a kutya0 a kutyája.
+ * Hozz létre egy példányt a Par nevű osztályból (par0)
+ * Hívd meg a par0 leiras nevű metódust az ember0 paraméterrel
+ * Vizsgáld meg, hogy az előző pontban lévő metódus hívás azt az eredményt adja-e vissza amire számítottál.
