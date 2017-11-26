@@ -9,10 +9,6 @@ https://www.safaribooksonline.com/library/view/java-pocket-guide/9780596514198/c
 ## String comparison java
 https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java
 
-## Why use getters and setters/accessors? (csak érdekesség)
-https://stackoverflow.com/questions/1568091/why-use-getters-and-setters-accessors
-
-
 ## Array(List) representation in memory:
 Ebben a példában tömb (Array) szerepel, de részünkről ez most ugyan olyan mintha ArrayList lenne.
 Az ábra bemutatja, hogy a shapes nevű referencia típus rámutat a memóriában egy tömbre. (erre mondtam, h olyan mint egy fiókos szekrény)
@@ -32,3 +28,8 @@ int shapeCt = 3;  // Keep track of number of objects in array.
 could be illustrated as:
 
 ![alt text](array_of_objects.png)
+
+http://math.hws.edu/eck/cs124/javanotes6/c7/s3.html
+
+## Why use getters and setters/accessors? (csak érdekesség)
+https://stackoverflow.com/questions/1568091/why-use-getters-and-setters-accessors
