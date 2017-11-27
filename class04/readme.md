@@ -31,5 +31,8 @@ could be illustrated as:
 
 http://math.hws.edu/eck/cs124/javanotes6/c7/s3.html
 
+## ArrayList usage
+https://beginnersbook.com/2013/12/java-arraylist/
+
 ## Why use getters and setters/accessors? (csak érdekesség)
 https://stackoverflow.com/questions/1568091/why-use-getters-and-setters-accessors
