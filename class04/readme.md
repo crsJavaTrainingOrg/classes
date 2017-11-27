@@ -34,5 +34,25 @@ http://math.hws.edu/eck/cs124/javanotes6/c7/s3.html
 ## ArrayList usage
 https://beginnersbook.com/2013/12/java-arraylist/
 
+## Change element in list example
+~~~~
+public class scratch_7 {
+    public static void main(String[] args) {
+            List<String> strings = new ArrayList<>();
+            strings.add("alma");
+            strings.add("korte");
+            strings.add("citrom");
+
+	     for (int i = 0; i< strings.size(); i++) {
+	         if (strings.get(i).equals("korte")) {
+	                strings.set(i, "ujKorte");
+	         }
+	     }
+
+             System.out.println(strings);
+    }
+}
+~~~~
+
 ## Why use getters and setters/accessors? (csak érdekesség)
 https://stackoverflow.com/questions/1568091/why-use-getters-and-setters-accessors
