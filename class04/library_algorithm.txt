@@ -1,0 +1,31 @@
+Konyv class:
+	boolean elerhetoe
+	String cim
+	String szerzo
+	
+konyvHozzaadasa metódus (szerzo, cim)
+	betesz egy konyvet a konyvek listájába megadott cimmel és szerzővel
+	az elerhetoe property érétke legyen true
+	
+kolcsonzes metodus (szerzo, cim):
+	megnézi hogy a könyvek listájában szerepel-e könyv a megadott szerzővel és címmel és a könyv elerhetoe propertyje true-e
+	Ha igen akkor 
+		a konyv elerhetoe mezőjét false-ra állítja és
+		visszaadja a ezt a könyv objektumot
+	különben visszatér null-al
+	
+visszavisz (konyv)
+	végigmegy a könyvek listáján és == -vel megvizsgálja, hogy a listában lévő bármelyik könyv == a paraméterben megadott könyvvel
+	ha igen
+		a könyv elerhetoe mezőjét true -ra állítja
+		visszatér true-val
+	különben visszatér false-al
+	
+
+A trükk: miért == vel hasonlítunk össze itt két könyv objektumot?
+Azért mert amikor a kolcsonzes metódusunk visszaadja a könyv objektumot akkor igazából azt a memóriacímet adja át ahol a memóriában a java
+tárolja a kikolcsonzott könyvet.
+
+És amikor ugyan ezzel a könyv objektummal (memóriacímmel) hívjuk meg a visszavisz metódust akkor az == pont
+egyenlőséget fog mondani (mivel a két memóriacím egyezik) (ha pedig egy másik azonos című szerzőjű könyv objektummal hívjuk meg
+akkor hiába egyezik meg a könyv szerzője és címe az nem ugyan az a könyv -> nem számít könyv visszahozásnak)
