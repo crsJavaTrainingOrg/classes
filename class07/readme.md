@@ -23,4 +23,4 @@ Given an array (int) with size: 10. (Use array not ArrayList!)
 3. In case number is 0 exit the cycle
 4. Print the size of the array.
 
-Eg: in case the generated random number in the cycle is 500 then the application should create an array which contains 500 1-s and print 500.
+Eg: in case the generated random number in the cycle is 0 in the 500'th cycle step then the application should create an array which contains 500 1-s and print 500.
