@@ -16,7 +16,7 @@ Create the following methods for each shape:
 * shapeFactory(int angleCount) Returns a shape which has as many angels as angleCount property (0: circle, 3: triangle, 4: rectangle). Return an error in case the paramter is not 0 or 3 or 4.
 		
 # Array
-Given an array (int) with size: 10.
+Given an array (int) with size: 10. (Use array not ArrayList!)
 
 1. Create a cycle and generate a new random number in every cycle step (0<= number < 1000)
 2. In case number !=0 add a new int to the array (eg add 1 to the array)
