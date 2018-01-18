@@ -21,6 +21,6 @@ Given an array (int) with size: 10. (Use array not ArrayList!)
 1. Create a cycle and generate a new random number in every cycle step (0<= number < 1000)
 2. In case number !=0 add a new int to the array (eg add 1 to the array)
 3. In case number is 0 exit the cycle
-4. Print the size of the array.
+4. Print the count of 1s in the array.
 
 Eg: in case the generated random number in the cycle is 0 in the 500'th cycle step then the application should create an array which contains 500 1-s and print 500.
