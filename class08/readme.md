@@ -11,9 +11,9 @@ Download Community edition for free:
 * https://www.jetbrains.com/idea/
 
 Or get a student licence for free and download the ultimate edition:
-https://www.jetbrains.com/shop/eform/students
+* https://www.jetbrains.com/shop/eform/students
 
-#Exercises
+# Exercises
 * Implement Two-to-One using TreeSet (https://www.codewars.com/kata/two-to-one)
 * Create a swap method which can be called in the following format:
 
