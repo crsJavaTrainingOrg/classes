@@ -1,3 +1,6 @@
+# Git Branching - Basic Branching and Merging
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
 # Git internals
 https://git-scm.com/book/en/v1/Git-Internals-Git-Objects
 
